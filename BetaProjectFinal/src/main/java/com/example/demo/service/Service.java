@@ -10,6 +10,8 @@ public interface Service
 {
 	void saveData(CrediData creditData);
 	void saveData2(SavingData savingData);
+	void saveData3(CrediData creditData);
+	void saveData25(SavingData savingData);
 	
 	
 }
